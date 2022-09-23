@@ -2,4 +2,6 @@ test file 3
 
 just added something
 
+and changed it again
 
+Hopefully these changes just mine
